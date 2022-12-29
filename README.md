@@ -24,4 +24,6 @@ Sophie LeBron
 
 ## Github
 
+https://github.com/sclebron/skiing-animation
+
 ## Deployed Link
