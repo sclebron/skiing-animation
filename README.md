@@ -12,6 +12,8 @@
 
 ## Description
 
+This is a skiing animation that was created as a fun project to practice my front end skills. It features a skier, falling snow, and the ability to toggle themes associated with different ski resorts. 
+
 ## Installation
 
 ## User Story
