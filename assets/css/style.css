@@ -4,6 +4,15 @@ skier - arms move back and forth, legs move side to side
 mountains - static background
 theme change - mountain background changes based on different resorts */
 
+body {
+    position: relative;
+    background: /* static, mountains but change when toggle theme */
+}
+
+#skier {
+    
+}
+
 #snow {
     position: relative;
 }
