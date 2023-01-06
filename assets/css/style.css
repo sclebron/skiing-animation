@@ -1,0 +1,12 @@
+/* snow falling, skier, mountains, theme change
+snow falling - three layers, different sizes, fade in and out, different sizes, different speeds
+skier - arms move back and forth, legs move side to side
+mountains - static background
+theme change - mountain background changes based on different resorts */
+
+#snow {
+    position: relative;
+}
+
+
+
